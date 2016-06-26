@@ -1,7 +1,7 @@
 {
   "lang": "en",
   "name": "Progressive App",
-  "short_name": "PA",
+  "short_name": "Progressive App",
   "icons": [{
         "src": "images/favicons/favicons.ico",
         "sizes": "64x64",
@@ -26,7 +26,7 @@
         "density": 3
       }],
   "scope": "/",
-  "start_url": "http://192.168.0.101/static/bundles/index.html",
+  "start_url": "https://intrior.github.io/progressive-web-app/index.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#25AAE1",
