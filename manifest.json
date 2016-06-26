@@ -1,0 +1,34 @@
+{
+  "lang": "en",
+  "name": "Progressive App",
+  "short_name": "PA",
+  "icons": [{
+        "src": "images/favicons/favicons.ico",
+        "sizes": "64x64",
+        "type": "image/webp"
+      }, {
+        "src": "images/favicons/favicons.ico",
+        "sizes": "64x64"
+      }, {
+        "src": "images/favicons/favicons-128.png",
+        "sizes": "128x128",
+        "density": 2
+      }],
+  "splash_screens": [{
+        "src": "images/favicons/splash320_240",
+        "sizes": "320x240"
+      }, {
+        "src": "images/favicons/splash1334_750",
+        "sizes": "1334x750"
+      }, {
+        "src": "images/favicons/splash1920_1080",
+        "sizes": "1920x1080",
+        "density": 3
+      }],
+  "scope": "/",
+  "start_url": "http://192.168.0.101/static/bundles/index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#25AAE1",
+  "background_color": "white"
+}
